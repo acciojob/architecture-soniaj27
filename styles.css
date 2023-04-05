@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.main{
+	width:1100px;
+}
+.imageContainer{
+	width:50%;
+	margin-left:100px;
+}
+img{
+	object-fit:cover;
+}
+table{
+	margin:50px;
+}
+.row-first, .row-second{
+	margin-left:100px;
+}
+.c-first , .c-third{
+	width:200px
+}
+.im{
+	width:200px;
+	object-fit:cover;
+}
+.c-second{
+	width:600px
+}
